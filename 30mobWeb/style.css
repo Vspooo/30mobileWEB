@@ -64,9 +64,7 @@
 
 }
 
-.midle-right{
 
-}
 
 
 .BSI{
@@ -144,6 +142,156 @@
     padding-left: 230px;
     margin-top: 5px;
     margin-right: 5px;
+
+}
+
+
+
+@media screen and (min-width: 0px) and (max-width: 992px) {
+
+
+
+    .head{
+        display: flex;
+
+    }
+
+    .logo{
+        width: 80px;
+        height:80px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 30px;
+        padding-left: 20px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+
+    .header{
+        height: 80px;
+        width: 365px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 30px;
+        padding-left: 160px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+
+    .nav{
+        height: 250px;
+        width: 80px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 120px;
+        padding-left: 25px ;
+        margin-top: 5px;
+        margin-right: 5px;
+
+    }
+
+
+    .store-loc{
+        width: 80px;
+        height: 50px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 10px;
+        padding-left: 20px;
+        margin-top: 5px;
+        margin-right: 5px;
+    }
+
+    .tools{
+        width: 80px;
+        height: 50px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 15px;
+        padding-left: 25px;
+        margin-top: 5px;
+        margin-right: 5px;
+
+
+    }
+
+    .Footer{
+        width: 450px;
+        height: 75px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 30px;
+        padding-left: 200px;
+        margin-top: 5px;
+        margin-right: 5px;
+
+    }
+
+    .BSI{
+        height: 135px;
+        width: 230px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 60px;
+        padding-left:55px;
+        margin-top: 5px;
+        margin-right: 5px;
+        display: flex;
+
+    }
+
+    .middle-left{
+        display: block;
+
+    }
+
+
+    .midle-blocks{
+        display: flex;
+
+    }
+
+
+    .TofB{
+        height: 220px;
+        width: 230px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 100px;
+        padding-left: 70px;
+        margin-top: 5px;
+        margin-right: 5px;
+    }
+
+    .midle-top-right{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .ad{
+        width: 130px;
+        height: 100px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 45px;
+        padding-left: 55px;
+        margin-top: 5px;
+        margin-right: 5px;
+
+    }
+
+    .Rl-product{
+        height: 255px;
+        width: 130px;
+        background-color: slategray;
+        box-sizing: border-box;
+        padding-top: 110px ;
+        padding-left: 40px ;
+        margin-top: 5px;
+
+
+    }
 
 }
 
